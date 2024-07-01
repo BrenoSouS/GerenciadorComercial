@@ -1,1 +1,3 @@
 # GerenciadorComercial
+
+ONLY WINDOWS
